@@ -1,5 +1,6 @@
+# software development 2.0
 
-An next.js app which is AI generated in replit.
+An next.js app which is AI generated in [replit.com](https://replit.com/@leventarican).
 
 The app can be deployed as __static__ in replit environment.
 For that we need to configure our next.js for static.
